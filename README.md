@@ -2,9 +2,9 @@
 
 Third party dependencies:
 
-HikariCP 3.4.1 (JDBC Connection Pool)
-slf4j-api-1.7.25 (Logging comonent for HikiraCP)
-slf4j-jdk14-1.7.25 (Logging comonent for HikiraCP)
+1. HikariCP 3.4.1 (JDBC Connection Pool)
+2. slf4j-api-1.7.25 (Logging comonent for HikiraCP)
+3. slf4j-jdk14-1.7.25 (Logging comonent for HikiraCP)
 
 
 
